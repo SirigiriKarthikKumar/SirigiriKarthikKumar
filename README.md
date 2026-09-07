@@ -35,12 +35,11 @@
 - 🎓 B.Tech in Information Technology, **Sri Mittapalli College of Engineering**, Andhra Pradesh — Graduated 2026
 - 📊 Data Analyst with hands-on experience in **SQL, Python, Excel, and Power BI**, skilled in Data Cleaning, EDA, Dashboard Development, and KPI Reporting
 - 💼 Completed Data Analyst internships at **Elevate Labs** and **Skyllx**, working on real-world datasets and business dashboards
-- 🌱 Currently exploring **Advanced SQL, Tableau, and the basics of Machine Learning**
 <!-- Edit the line below any time your target roles/locations change -->
 - 🎯 Seeking **Data Analyst** roles at IT/consulting firms and analytics companies in **Hyderabad, Bangalore, or Andhra Pradesh**
 - 📫 Reach me at **sirigiri.karthick@gmail.com**
 
-> "In my free time, I enjoy reading books, learning new technologies, and playing badminton. Reading helps me improve my knowledge, while sports keep me active and teach me teamwork." 🏸📚
+> "In my free time, I enjoy reading books, learning new technologies and Reading helps me improve my knowledge, while sports keep me active and teach me teamwork." 🏸📚
 
 ---
 
@@ -113,15 +112,6 @@ Analyzed and cleaned real-world datasets using Python, SQL, and Excel to generat
 - 🎓 Power BI — Newton School
 - 🎓 Career Essentials in Data Analysis — Microsoft & LinkedIn
 - 🎓 Data Analytics and Visualization Job Simulation — Accenture (Forage)
-
----
-
-## 📚 Currently Learning
-
-<!-- Edit this list as your learning focus shifts -->
-![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning_Basics-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
